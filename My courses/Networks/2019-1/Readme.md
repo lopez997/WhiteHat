@@ -43,6 +43,7 @@ __Proyectos asignados__
   _Grupo 10_: Paola Fuentes (Lunes), Beycker Ágredo y Bryan Camilo Grueso
 + ¿Llega a ser WhatsApp lo suficientemente seguro como se piensa?
 + WiFi Pineapple – Pineapple in the middle.
+_Grupo 11: Santiago del campo, Juan Esteban Gallo y Juan  David López 
 + Análisis de malware en dispositivos con sistema operativo Android
   
   _Grupo 8_: Sara, Daniela Llano, David Erazo y Nicolás Biojo. 
